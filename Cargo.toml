@@ -1,0 +1,11 @@
+[package]
+name = "hyperbolic"
+version = "0.0.0"
+edition = "2021"
+readme = "README.md"
+description = "A Rust library for the hyperbolic."
+license = "MIT/Apache-2.0"
+authors = ["b0xtch"]
+repository = "https://github.com/b0xtch/hyperbolic"
+
+[dependencies]
